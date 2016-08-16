@@ -1,4 +1,4 @@
-# rosalind.com bioinformatics problems
+# rosalind.info bioinformatics problems
 
 This repository contains my solutions to [rosalind's]
 (http://rosalind.info/problems/list-view/) bioinformatics using
